@@ -23,6 +23,12 @@
 
 <img src="https://github.com/user-attachments/assets/5e634768-5045-415c-8ac1-a715c282a4c9" alt="description" style="width: 50%; height: auto;">
 
+## 实验：baseline_MVSA-multiple  
+| Accuracy | F1(weighted) | Precision(weighted) | R(weighted) | F1(macro) | Precision | R | loss
+| --- | --- | --- | --- | --- | --- |  --- |   --- | 
+| 0.674118 | 0.655297 | 0.646247 | 0.674118 | 0.511616 | 0.543621 | 0.495049 | 0.008646 | 
+<img src="https://github.com/user-attachments/assets/7825323e-5bc4-4b5a-ab7f-602272faba81" alt="description" style="width: 50%; height: auto;">
+
 ## 实验： baseline_BILSTM-CNN-attention_MVSA-single  
 实验参数：  
 <img src="https://github.com/user-attachments/assets/a1bf705f-4869-4a37-8c3c-f50ce7af4b33" alt="description" style="width: 30%; height: auto;">
