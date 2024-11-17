@@ -30,7 +30,8 @@
 <img src="https://github.com/user-attachments/assets/7825323e-5bc4-4b5a-ab7f-602272faba81" alt="description" style="width: 50%; height: auto;">
 
 ## 实验：baseline_BILSTM_MVSA-single  
-实验参数:  
+<img src="https://github.com/user-attachments/assets/3a906beb-1ecb-4106-b945-e86638844d3a" alt="description" style="width: 50%; height: auto;">  
+
 | Accuracy | F1(weighted) | Precision(weighted) | R(weighted) | F1(macro) | Precision | R | loss
 | --- | --- | --- | --- | --- | --- |  --- |   --- | 
 | 0.706667 | 0.701544 | 0.699640 | 0.706667 | 0.582701 | 0.543621 | 0.579661 | 0.0052116 | 
