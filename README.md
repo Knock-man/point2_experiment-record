@@ -29,6 +29,23 @@
 | 0.674118 | 0.655297 | 0.646247 | 0.674118 | 0.511616 | 0.543621 | 0.495049 | 0.008646 | 
 <img src="https://github.com/user-attachments/assets/7825323e-5bc4-4b5a-ab7f-602272faba81" alt="description" style="width: 50%; height: auto;">
 
+## 实验：baseline_BILSTM_MVSA-multiple  
+实验参数：  
+| Accuracy | F1(weighted) | Precision(weighted) | R(weighted) | F1(macro) | Precision | R | loss
+| --- | --- | --- | --- | --- | --- |  --- |   --- | 
+| 0.706667 | 0.701544 | 0.699640 | 0.706667 | 0.582701 | 0.543621 | 0.579661 | 0.0052116 | 
+
+<img src="https://github.com/user-attachments/assets/c6a7e330-d5e6-4026-8f0f-9df5fb750475" alt="description" style="width: 50%; height: auto;">
+
+## 实验： baseline_BILSTM-attention_MVSA-single  
+实验参数：   
+<img src="[https://github.com/user-attachments/assets/8f0d11ce-8535-4aac-8f67-af76887016f5](https://github.com/user-attachments/assets/4f605640-5201-4bbf-b287-1c14a97b469a)" alt="description" style="width: 30%; height: auto;">
+
+| Accuracy | F1(weighted) | Precision(weighted) | R(weighted) | F1(macro) | Precision | R | loss
+| --- | --- | --- | --- | --- | --- |  --- |   --- | 
+| 0.697778 | 0.696265 | 0.695608 | 0.697778 | 0.583504 | 0.585869 | 0.582707 | 0.005372 | 
+<img src="https://github.com/user-attachments/assets/9bcb60a5-24e4-48ea-b3aa-f985615e17bb" alt="description" style="width: 50%; height: auto;">
+
 ## 实验： baseline_BILSTM-CNN-attention_MVSA-single  
 实验参数：  
 <img src="https://github.com/user-attachments/assets/a1bf705f-4869-4a37-8c3c-f50ce7af4b33" alt="description" style="width: 30%; height: auto;">
@@ -38,14 +55,6 @@
 | 0.697778 | 0.702889 | 0.709073 | 0.697778 | 0.592002 | 0.587000 | 0.599027 | 0.007094 | 
 <img src="https://github.com/user-attachments/assets/34ddbcd8-7d93-456c-9db8-5718a88ddb49" alt="description" style="width: 50%; height: auto;">
 
-## 实验： baseline_BILSTM-attention_MVSA-single  
-实验参数： 
-<img src="https://github.com/user-attachments/assets/8f0d11ce-8535-4aac-8f67-af76887016f5" alt="description" style="width: 30%; height: auto;">
-
-| Accuracy | F1(weighted) | Precision(weighted) | R(weighted) | F1(macro) | Precision | R | loss
-| --- | --- | --- | --- | --- | --- |  --- |   --- | 
-| 0.697778 | 0.696265 | 0.695608 | 0.697778 | 0.583504 | 0.585869 | 0.582707 | 0.005372 | 
-<img src="https://github.com/user-attachments/assets/9bcb60a5-24e4-48ea-b3aa-f985615e17bb" alt="description" style="width: 50%; height: auto;">
 
 ## 实验： baseline_BILSTM-CNN-attention_MVSA-multiple   
 实验参数：  
