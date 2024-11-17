@@ -30,7 +30,7 @@
 <img src="https://github.com/user-attachments/assets/7825323e-5bc4-4b5a-ab7f-602272faba81" alt="description" style="width: 50%; height: auto;">
 
 ## 实验：baseline_BILSTM_MVSA-single  
-实验参数：  
+实验参数:  
 | Accuracy | F1(weighted) | Precision(weighted) | R(weighted) | F1(macro) | Precision | R | loss
 | --- | --- | --- | --- | --- | --- |  --- |   --- | 
 | 0.706667 | 0.701544 | 0.699640 | 0.706667 | 0.582701 | 0.543621 | 0.579661 | 0.0052116 | 
@@ -38,8 +38,8 @@
 <img src="https://github.com/user-attachments/assets/c6a7e330-d5e6-4026-8f0f-9df5fb750475" alt="description" style="width: 50%; height: auto;">
 
 ## 实验： baseline_BILSTM-attention_MVSA-single  
-实验参数：   
-<img src="[https://github.com/user-attachments/assets/8f0d11ce-8535-4aac-8f67-af76887016f5](https://github.com/user-attachments/assets/4f605640-5201-4bbf-b287-1c14a97b469a)" alt="description" style="width: 30%; height: auto;">
+实验参数:
+<img src="https://github.com/user-attachments/assets/8f0d11ce-8535-4aac-8f67-af76887016f5](https://github.com/user-attachments/assets/4f605640-5201-4bbf-b287-1c14a97b469a" alt="description" style="width: 30%; height: auto;">
 
 | Accuracy | F1(weighted) | Precision(weighted) | R(weighted) | F1(macro) | Precision | R | loss
 | --- | --- | --- | --- | --- | --- |  --- |   --- | 
@@ -47,7 +47,7 @@
 <img src="https://github.com/user-attachments/assets/9bcb60a5-24e4-48ea-b3aa-f985615e17bb" alt="description" style="width: 50%; height: auto;">
 
 ## 实验： baseline_BILSTM-CNN-attention_MVSA-single  
-实验参数：  
+实验参数:
 <img src="https://github.com/user-attachments/assets/a1bf705f-4869-4a37-8c3c-f50ce7af4b33" alt="description" style="width: 30%; height: auto;">
 
 | Accuracy | F1(weighted) | Precision(weighted) | R(weighted) | F1(macro) | Precision | R | loss
