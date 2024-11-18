@@ -75,8 +75,17 @@
 
 <img src="https://github.com/user-attachments/assets/1b6fbbdc-19f8-4168-a537-0c6d6b19f4d8" alt="description" style="width: 50%; height: auto;">
 
+## 实验： baseline_BILSTM(256)-CNN-attention_MVSA-single  （创新点一架构）
+实验参数： 
+<img src="https://github.com/user-attachments/assets/82475d00-9de7-4177-9101-33c63ef14d9d" alt="description" style="width: 50%; height: auto;">
 
-## 实验： baseline_BILSTM(128)-CNN-attention_MVSA-multiple   
+| Accuracy | F1(weighted) | Precision(weighted) | R(weighted) | F1(macro) | Precision | R | loss
+| --- | --- | --- | --- | --- | --- |  --- |   --- | 
+| 0.715556 | 0.726688 | 0.728780 | 0.737778 | 0.620189 | 0.67750 | R: 0.601697 | 0.004801 | 
+
+<img src="https://github.com/user-attachments/assets/1fc0b670-87c8-4202-b71d-fd48a0d74894" alt="description" style="width: 50%; height: auto;">
+
+## 实验： baseline_BILSTM(128)-CNN-attention_MVSA-multiple
 实验参数：  
 <img src="https://github.com/user-attachments/assets/a1bf705f-4869-4a37-8c3c-f50ce7af4b33" alt="description" style="width: 50%; height: auto;">
 
