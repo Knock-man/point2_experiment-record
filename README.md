@@ -93,8 +93,18 @@
 
 <img src="https://github.com/user-attachments/assets/c2055cd4-c52e-4c55-9ddd-dfa9b0a9f442" alt="description" style="width: 50%; height: auto;">
 
+## 实验： Robert_（BILSTM(256)-multi_Att)+capsule0.4_MVSA-single  （创新点一架构）
+实验参数：
+<img src="https://github.com/user-attachments/assets/bea4be04-ba40-4783-b8e0-d9c3667979e4" alt="description" style="width: 50%; height: auto;">
+
+| Accuracy | F1(weighted) | Precision(weighted) | R(weighted) | F1(macro) | Precision | R | loss
+| --- | --- | --- | --- | --- | --- |  --- |   --- | 
+| 0.711111 | 0.708502 | 0.711800 | 0.711111 | 0.595357 | 0.605117 | 0.591785 | 0.004960 | 
+
+<img src="https://github.com/user-attachments/assets/ba76fa37-fe7f-400d-ad99-f0aa0a0ca5eb" alt="description" style="width: 50%; height: auto;">
+
 ## 实验： baseline_BILSTM(128)-CNN-attention_MVSA-multiple
-实验参数：  
+实验参数： 
 <img src="https://github.com/user-attachments/assets/a1bf705f-4869-4a37-8c3c-f50ce7af4b33" alt="description" style="width: 50%; height: auto;">
 
 | Accuracy | F1(weighted) | Precision(weighted) | R(weighted) | F1(macro) | Precision | R | loss
